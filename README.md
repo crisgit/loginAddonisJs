@@ -1,8 +1,8 @@
 **Aplicação simples em AdonisJS realizando cadastro e autenticação de usuários em uma API REST com JWT token.**
 
-#Obs.: Arquivo Json em PostMan em anexo neste repositório
+# Obs.: Arquivo Json em PostMan em anexo neste repositório
 
-##Utilizado o banco de dados MySQL
+## Utilizado o banco de dados MySQL
 
 # Adonis API application
 
